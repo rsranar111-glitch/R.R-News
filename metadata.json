@@ -1,0 +1,7 @@
+{
+  "name": "R.R NEWS",
+  "description": "Privacy-first personalized news platform powered by DuckDuckGo search, real-time push alerts, offline reading, Google Calendar scheduling, and Gemini AI news analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
